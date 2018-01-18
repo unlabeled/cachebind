@@ -1,5 +1,5 @@
 {
-  "name": "bind-cache",
+  "name": "cachebind",
   "version": "0.0.1",
   "description": "Cache/memoize result of bind function with its context or/and args (no-shims version)",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/unlabeled/bind-cache.git"
+    "url": "git+ssh://git@github.com/unlabeled/cachebind.git"
   },
   "keywords": [
     "cache",
@@ -32,9 +32,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/unlabeled/bind-cache/issues"
+    "url": "https://github.com/unlabeled/cachebind/issues"
   },
-  "homepage": "https://github.com/unlabeled/bind-cache#readme",
+  "homepage": "https://github.com/unlabeled/cachebind#readme",
   "devDependencies": {
     "lint-staged": "^6.0.0",
     "pre-commit": "^1.2.2",

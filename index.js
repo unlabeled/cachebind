@@ -7,7 +7,9 @@ var cached = new WeakMap()
  * @param {Array} args
  */
 function bindArgs() {
-  return bind.apply(undefined, arguments)
+  var args = Array.prototype.splice.call(arguments, 0)
+  args.unshift(undefined)
+  return bind.apply(undefined, args)
 }
 
 /**
