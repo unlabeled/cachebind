@@ -8,6 +8,7 @@
     "start": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
+  "typings": "cachebind.d.ts",
   "pre-commit": [
     "pre-commit"
   ],
