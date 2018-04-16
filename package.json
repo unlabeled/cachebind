@@ -1,6 +1,6 @@
 {
   "name": "cachebind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cache/memoize result of bind function with its context or/and args (no-shims version)",
   "main": "build/index.js",
   "scripts": {
