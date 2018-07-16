@@ -1,6 +1,6 @@
 {
   "name": "cachebind",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Cache/memoize result of bind function with its context or/and args (no-shims version)",
   "scripts": {
     "pre-commit": "lint-staged",
